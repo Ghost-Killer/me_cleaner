@@ -77,6 +77,8 @@ boot times or warning messages) or without issues at all.
 Obviously, the features provided by Intel ME won't be functional anymore after
 the modifications.
 
+## ME12 Support By https://github.com/corna/me_cleaner/pull/282
+
 ## Documentation
 
 The detailed documentation about the working of _me\_cleaner_ can be found on
